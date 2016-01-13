@@ -1,4 +1,4 @@
-This work, "Decay", is created by Ricky Thomson "unixfreak" <punkalert@gmail.com>
+This work, "Decay", is created by Ricky Thomson "unixfreak" <ricky.thomson@gmx.com>
 
 It is licensed under the Creative Commons Attribution ShareAlike (CC-BY-SA)
 Unported License version 3.0
