@@ -1,10 +1,14 @@
-This work, made by 4rson <rodchilli@yahoo.co.uk> and D.a.M.i.E.n. <daymeenn@gmail.com> , is licensed under the
-Creative Commons Attribution-ShareAlike 3.0
- Unported License.
+This work, made by Molexted,is a derivative of the original made by 4rson and D.a.M.i.E.n, 
+and is licensed under the same terms as the original, replicated below:
 
-To view a copy of this license:
-1. visit http://creativecommons.org/licenses/by-sa/3.0/ or
-2. read cc-by-sa.txt file or
-3. send a letter to Creative Commons,
-444 Castro Street, Suite 900,
-Mountain View, California, 94041, USA
+
+    This work, made by 4rson <rodchilli@yahoo.co.uk> and D.a.M.i.E.n. <daymeenn@gmail.com> , is licensed under the
+    Creative Commons Attribution-ShareAlike 3.0
+    Unported License.
+
+    To view a copy of this license:
+    1. visit http://creativecommons.org/licenses/by-sa/3.0/ or
+    2. read cc-by-sa.txt file or
+    3. send a letter to Creative Commons,
+    444 Castro Street, Suite 900,
+    Mountain View, California, 94041, USA
