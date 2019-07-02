@@ -1,0 +1,9 @@
+This is an adaptation of Temka's cube 2 map "port" with all the rooms removed except the third.
+Adaptation by Molexted; licenced under CC BY-SA 3.0 (same terms as original work)
+
+===== Original License Text ===
+
+This work, made by [RM]Temka, is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
