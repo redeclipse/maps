@@ -1,5 +1,0 @@
-Purge by Derek "Jojo" Stegall and ported to Red Eclipse 2 by Molexted
-
-This port of the original Cube 2 map includes some geometry refinements and modifications to allow play with Red Eclipse 2 physics.
-
-Licensed CC-BY-SA 3.0; original work by Derek "Jojo" Stegall.

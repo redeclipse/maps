@@ -1,8 +1,0 @@
-This work by Molexted is an adaptation of the Cube 2 map "disco" by Bonifarz. It is likewise licensed under the CC BY-SA 3.0 license.
-It is somewhat larger than the original (increase in radius of 2m) and features more player spawns and a more detailed floor along with light flag and radius changes for the Tesseract engine.
-
-===== Original License Text =====
-
-This work, made by Bonifarz <bonifarz@gmx.ch>, is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
-To view a copy of this license visit 
-http://creativecommons.org/licenses/by-sa/3.0/ 
