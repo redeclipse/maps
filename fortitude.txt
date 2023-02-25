@@ -1,7 +1,7 @@
-Fortitude by James 'Max Payne' Tonjes, port by Alex 'molexted' Foster, and dc.
+Fortitude by James 'Max Payne' Tonjes, port by Alex 'molexted' Foster, updated by dc.
 
 This is a derivative of the original map Fortitude by James "Max Payne" Tonjes, port by Alex "molexted" Foster.
-There have also been small modifications to accomodate the needs of newer versions of Red Eclipse 2.
+There have also been small modifications to accomodate the needs of newer versions of Red Eclipse.
 
 This work by "dc" is licensed under the Creative Commons 
 Attribution-ShareAlike 4.0 International License. To view a copy 
