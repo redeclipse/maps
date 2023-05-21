@@ -1,13 +1,13 @@
-This work, "Bloodlust", is created by Joseph "ballist1c" Calabria
-and Matt "greaserpirate" Kalt
-
-Remixed and ported to Red Eclipse 2.0+ by Ricky "unixfreak" Thomson
-
-It is Copyright (C) 2013 Joseph "ballist1c" Calabria
-and Copyright (C) 2013 Matt "greaserpirate" Kalt
-
-It is licensed under the Creative Commons Attribution ShareAlike (CC-BY-SA)
-Unported License, version 3.0.
-
-To view a copy of this license, read "cc-by-sa.txt" or visit
-<http://creativecommons.org/licenses/by-sa/3.0/>
+This work, "Bloodlust", is created by Joseph "ballist1c" Calabria
+and Matt "greaserpirate" Kalt
+
+Remixed and ported to Red Eclipse 2.0+ by Ricky "unixfreak" Thomson
+
+It is Copyright (C) 2013 Joseph "ballist1c" Calabria
+and Copyright (C) 2013 Matt "greaserpirate" Kalt
+
+It is licensed under the Creative Commons Attribution ShareAlike (CC-BY-SA)
+Unported License, version 3.0.
+
+To view a copy of this license, read "cc-by-sa.txt" or visit
+<http://creativecommons.org/licenses/by-sa/3.0/>
