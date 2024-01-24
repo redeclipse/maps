@@ -1,4 +1,4 @@
-This work, made by LuckyStrike-Rx and Ulukai (jonathan.denil@gmail.com), is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
-Ported to Red Eclipse 2.0+ by Ricky Thomson
-
-To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+This work, made by LuckyStrike-Rx and Ulukai (jonathan.denil@gmail.com), is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Ported to Red Eclipse 2.0+ by Ricky Thomson
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
