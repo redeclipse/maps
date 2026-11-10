@@ -1,0 +1,16 @@
+name: Tell the website about new map previews
+
+on:
+  push:
+    branches: [master]
+    paths: ["*.png"]
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ask redeclipse.github.io to rebuild its map thumbnails
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+        run: gh api repos/redeclipse/redeclipse.github.io/dispatches -f event_type=maps-updated -f "client_payload[sha]=$GITHUB_SHA"
